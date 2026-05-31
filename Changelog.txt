@@ -1,4 +1,9 @@
 -----------------------------
+v3.0.5-fork.1
+
+- Re-publish to https://upm.thanhdv.com/
+
+-----------------------------
 v3.0.5
 
 - Fixed small issue with Safe Area not being updated when the screen resolution changes.

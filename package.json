@@ -1,9 +1,9 @@
 {
-    "name": "com.tayx.graphy",
+    "name": "thanhdv.fork.tayx.graphy",
     "version": "3.0.5",
-    "displayName": "Graphy - Ultimate FPS Counter",
+    "displayName": "Graphy",
     "description": "Graphy is the ultimate, easy to use, feature packed FPS Counter, stats monitor and debugger for your Unity project.",
-    "unity": "2019.4",
+    "unity": "2022.3",
     "license": "MIT",
     "keywords": [
         "fps",
@@ -13,8 +13,16 @@
         "graphy"
     ],
     "author": {
-	    "name": "Martin Pane",
-	    "email": "martintayx@gmail.com",
-	    "url": "https://twitter.com/martinTayx"
-  	}
+        "name": "Martin Pane",
+        "email": "martintayx@gmail.com",
+        "url": "https://twitter.com/martinTayx"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ThanhDV143/Fork.Lib.Graphy.git"
+    },
+    "changelogUrl": "https://github.com/ThanhDV143/Fork.Lib.Graphy/blob/master/Changelog.txt",
+    "publishConfig": {
+        "registry": "https://upm.thanhdv.com/"
+    }
 }
