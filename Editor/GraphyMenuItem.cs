@@ -18,7 +18,6 @@ namespace Tayx.Graphy
 {
     public class GraphyMenuItem
     {
-        [MenuItem( "Tools/Graphy/Create Prefab Variant" )]
         static void CreatePrefabVariant()
         {
             // Directory checking
@@ -55,7 +54,6 @@ namespace Tayx.Graphy
             }
         }
 
-        [MenuItem( "Tools/Graphy/Import Graphy Customization Scene" )]
         static void ImportGraphyCustomizationScene()
         {
             string customizationSceneGuid = AssetDatabase.FindAssets( "Graphy_CustomizationScene" )[ 0 ];
